@@ -1,1 +1,1 @@
-# Projects
+# Lung Cancer Detection using CNN
